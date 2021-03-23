@@ -1,6 +1,6 @@
 # QBR-data-analysis
 
-QBR stands for * Quartely Business Review*
+QBR stands for *Quartely Business Review*
 This code was done to automate outputs for a quartelry review presentation regarding how business improved. I coded this to made it easier for me to generate all the graphs and clean the data I need one time without needing to do this through Excel.
 
 This is a code that uses cases done by the whole global team through SFDC. The cases output is an excel file that is ordered chronologically. Cases have been assigned to all team memebers throughtout 3 regions, EMEA, JAPAC, and Americas
