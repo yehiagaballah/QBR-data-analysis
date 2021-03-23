@@ -12,3 +12,9 @@ First, We imported, cleaned the unwanted data and selected the data that corresp
 This data has all the extra columns I needed to make apprehended as well. The info line at the end shows the data after being cleaned.
 
 Manual filtering has been used in some cases because there is no list compiling all possible cases (as the case for the country and under which region is it). This can also change from one quarter to the other.
+
+
+### Next Steps 
+1) Generalize this through inputs (making this valid for any user, any quarter and renaming the top users
+2) Take this concept and make it a template used by the whole team across different functionalities
+3) Maintain this to accomodate any updates done on the SFDC output for cases done
