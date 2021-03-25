@@ -8,9 +8,9 @@ This is a code that uses cases done by the whole global team through SFDC. The c
 
 This code can be ran once per quarter after editing the quarter and the user if needed to offer comparsions between
 
-First, We imported, cleaned the unwanted data and selected the data that corresponds to My user only and the data that corresponds to the cases I made.
+First, We imported, cleaned the unwanted data and selected the data that corresponds to the user we need only and the data that corresponds to the cases this user made.
 
-This data has all the extra columns I needed to make apprehended as well. The info line at the end shows the data after being cleaned.
+This data has all the extra columns needed to be apprehended as well. The info line at the end shows the data after being cleaned.
 
 Manual filtering has been used in some cases because there is no list compiling all possible cases (as the case for the country and under which region is it). This can also change from one quarter to the other.
 
