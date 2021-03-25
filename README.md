@@ -16,6 +16,6 @@ Manual filtering has been used in some cases because there is no list compiling 
 
 
 ### Next Steps 
-1) Generalize this through inputs (making this valid for any user, any quarter and renaming the top users
-2) Take this concept and make it a template used by the whole team across different functionalities
+1) Generalize this through inputs (making this valid for any user, any quarter and renaming the top users country and user-wise)
+2) Take this concept and make it a template used by the whole team across different functionalities across other subteams
 3) Maintain this to accomodate any updates done on the SFDC output for cases done
